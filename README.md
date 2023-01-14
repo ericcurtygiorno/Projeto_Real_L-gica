@@ -58,3 +58,6 @@ Já no GaussianMixture todos os Clusters tinha a variável valor como sua maior 
 
 ## Conclusão do Projeto:
 Dentre todos os modelos testados, o modelo Kmeans com 5 Clusters e com tratamento de outliers foi o modelo que fez mais sentido para o negócio. Desta forma, será o modelo utilizado pela empresa para melhor direcionamento do seu marketing, tendo em vista a diminuição de custos e maior assertividade no contato com o cliente e seu retorno às lojas.
+
+## Apresentação do modelo selecionado em PowerBI:
+![pbi github](https://user-images.githubusercontent.com/122547865/212483325-8bb7869d-dbc2-4b20-8882-99ec8e85623a.png)
